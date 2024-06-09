@@ -1,0 +1,13 @@
+Jens, Jensen, 3
+Rasmine, Kurtsen, 4
+Niels, Nielsen, 5
+Peter, Petersen, 2
+Niels, Nielsen , 10
+Kjeld, Kjeldsen, 11
+Morten, Lisesen, 15
+Ole, Olesen, 21
+Peter, Petersen, 512
+Lise, Lisesen, 111
+Morten, Mortensen, 2914
+Olga, Olgasen, 4000
+Morten, Bobsen, 2019

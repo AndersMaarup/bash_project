@@ -1,0 +1,10 @@
+Mangler:
+- cat-funktioner refaktoreres og ryddes op (behøver jeg "list"?)
+- Til rapport: mkdir tager stadigvæk en linie. Og den skal stadigvæk sende "last line" videre
+- Til rapport: Tee appender i stedet for (ikke behov for bottleneck!)
+- Til rapport: Store rettelser med "cat"
+- Til rapport: Translate bruger ikke flags, da konverteringsmetoden er obligatorisk
+- Til rapport: Bottleneck-kommandoer
+- Man kan ikke word-counte et wordcount
+- Find med flags
+- Ved "cat" skal argument altid have præcedens over standardoutput

@@ -1,0 +1,19 @@
+Gert, Gertsen, 1
+Morten, Mortensen,2
+Anders, Andersen,3
+Frederik, Frederiksen,5
+Christian, Christiansen,3
+Morten, Christensen,2
+Dennis, Dennisen,5
+Magnus, Magnusson,6
+Peter, Petersen,81
+Dennis, Dennisen,34
+Frederik, Frederiksen,54
+Bente, Bentesen,22
+Camilla, Cammillasen,1
+Gert, Gregorsen,12
+Morten, Mortensen,2
+Morten, Mortensen,2
+Morten, Mortensen,2
+Morten, Christensen,2
+Morten, Christensen,2

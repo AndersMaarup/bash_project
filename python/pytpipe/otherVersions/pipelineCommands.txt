@@ -1,0 +1,7 @@
+xgrep
+xsort
+cut
+awk
+sed
+uniq
+wc

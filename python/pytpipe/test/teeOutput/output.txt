@@ -1,0 +1,32 @@
+Gert, Gertsen, 1
+Morten, Mortensen,2
+Anders, Andersen,3
+Frederik, Frederiksen,5
+Christian, Christiansen,3
+Morten, Christensen,2
+Dennis, Dennisen,5
+Magnus, Magnusson,6
+Peter, Petersen,81
+Dennis, Dennisen,34
+Frederik, Frederiksen,54
+Bente, Bentesen,22
+Camilla, Cammillasen,1
+Gert, Gregorsen,12
+Morten, Mortensen,2
+Morten, Mortensen,2
+Morten, Mortensen,2
+Morten, Christensen,2
+Morten, Christensen,2
+Jens, Jensen, 3
+Rasmine, Kurtsen, 4
+Niels, Nielsen, 5
+Peter, Petersen, 2
+Niels, Nielsen , 10
+Kjeld, Kjeldsen, 11
+Morten, Lisesen, 15
+Ole, Olesen, 21
+Peter, Petersen, 512
+Lise, Lisesen, 111
+Morten, Mortensen, 2914
+Olga, Olgasen, 4000
+Morten, Bobsen, 2019
